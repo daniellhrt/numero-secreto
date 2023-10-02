@@ -2,6 +2,7 @@
 
 <h2>�� Sobre</h2>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<p>Usado nesse repositorio para estudo do Git e Github.</p>
 
 ## �� Tecnologias
 <div>
